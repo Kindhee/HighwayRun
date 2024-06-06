@@ -732,6 +732,18 @@ PrefabInstance:
       value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 212549091504536008, guid: 7647dab7c25d80b4e925372dfcd8ec47, type: 3}
+      propertyPath: m_Color.b
+      value: 0.28235295
+      objectReference: {fileID: 0}
+    - target: {fileID: 212549091504536008, guid: 7647dab7c25d80b4e925372dfcd8ec47, type: 3}
+      propertyPath: m_Color.g
+      value: 0.28235295
+      objectReference: {fileID: 0}
+    - target: {fileID: 212549091504536008, guid: 7647dab7c25d80b4e925372dfcd8ec47, type: 3}
+      propertyPath: m_Color.r
+      value: 0.28235295
+      objectReference: {fileID: 0}
+    - target: {fileID: 212549091504536008, guid: 7647dab7c25d80b4e925372dfcd8ec47, type: 3}
       propertyPath: m_SortingOrder
       value: 100
       objectReference: {fileID: 0}
@@ -12933,7 +12945,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1917576727}
   m_Layer: 0
-  m_Name: Lights
+  m_Name: Blinkers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
